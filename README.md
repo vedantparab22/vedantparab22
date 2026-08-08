@@ -1,10 +1,27 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm **Vedant**, a developer who believes consistency beats talent. 
-<div align="center">
-  <img src="./Screenshot%202026-08-08%20180649.png" width="600">
-</div>
-<br>From building web apps to experimenting with AI and automation, I love learning by doing.<br><br>Tech Stack:  <br>**Python • Django • React • JavaScript • Node.js • SQL**<br><br>Currently focused on strengthening my backend skills and preparing for a career in software development.<br>
+<table>
+<tr>
+<td width="70%" valign="top">
 
+## 👋 About Me
+
+I'm **Vedant**, a developer who believes consistency beats talent.
+
+From building web apps to experimenting with AI and automation, I love learning by doing.
+
+**Tech Stack:**  
+Python • Django • React • JavaScript • Node.js • SQL
+
+Currently focused on strengthening my backend skills and preparing for a career in software development.
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="./Screenshot%202026-08-08%20180649.png" width="180">
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedantparab22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantparab22@gmail.com) 
