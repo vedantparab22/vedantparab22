@@ -1,5 +1,9 @@
 # 💫 About Me:
-## 👋 About Me<br><br>I'm **Vedant**, a developer who believes consistency beats talent.  <br>From building web apps to experimenting with AI and automation, I love learning by doing.<br><br>Tech Stack:  <br>**Python • Django • React • JavaScript • Node.js • SQL**<br><br>Currently focused on strengthening my backend skills and preparing for a career in software development.<br>
+## 👋 About Me<br><br>I'm **Vedant**, a developer who believes consistency beats talent. 
+<div align="center">
+  <img src="./Screenshot%202026-08-08%20180649.png" width="600">
+</div>
+<br>From building web apps to experimenting with AI and automation, I love learning by doing.<br><br>Tech Stack:  <br>**Python • Django • React • JavaScript • Node.js • SQL**<br><br>Currently focused on strengthening my backend skills and preparing for a career in software development.<br>
 
 
 ## 🌐 Socials:
