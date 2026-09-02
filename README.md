@@ -36,6 +36,23 @@ Currently focused on strengthening my backend skills and preparing for a career 
 ---
 [![](https://komarev.com/ghpvc/?username=vedantparab22&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/vedantparab22/vedantparab22/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/vedantparab22/vedantparab22/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/vedantparab22/vedantparab22/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### ✍️ Random Dev Quote
